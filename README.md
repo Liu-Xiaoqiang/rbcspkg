@@ -1,3 +1,6 @@
+# Warning ! ! !
+This repository will not be updated in future, please use another one on [Chipsee](https://github.com/Chipsee/rbcspkg)
+
 # Introduction
 We will use this repo to contain the source code and config for Chipsee Raspberry Computer Module Hardware.
 
